@@ -10,7 +10,7 @@
 #include <map>
 #include <xstring>
 
-#include <winsock2.h>
+ #include <winsock2.h>
 
 #include "MTime.h"
 #include "SafeString.h"
